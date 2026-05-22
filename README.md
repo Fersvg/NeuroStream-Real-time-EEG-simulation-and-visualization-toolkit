@@ -1,4 +1,4 @@
-# NeuroStream-Real-time-EEG-simulation-and-visualization-toolkit using **LSL**
+# NeuroStream: Real-time EEG simulation and visualization toolkit using **LSL**
 This repository contains two scripts:
 
 - `Emitter.py`: generates a realistic multi-channel EEG-like signal and streams it over LSL.
